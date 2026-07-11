@@ -123,14 +123,84 @@
 .card-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(1, 1fr);
   text-align: start;
   gap: 20px;
 }
 .card-holder {
-  border: 1px solid #575757;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 1px solid #d1d5db;
   border-radius: 12px;
-  padding: 32px;
+  padding: 32px 32px 20px;
 }
-.btn1{
-    display: block;
+
+.card-holder-p1 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #888888;
+}
+.card-holder-h3 {
+  font-size: 44px;
+  font-weight: bold;
+  color: #0d1b2a;
+}
+.card-holder-p2 {
+  font-size: 13px;
+  color: #888888;
+}
+
+.ul-list li::marker {
+  color: #2563eb;
+}
+.special {
+  background-color: #f8f9fa;
+}
+
+.btn1 {
+  cursor: pointer;
+  padding: 11px 0;
+  border: 1px solid #2563eb;
+  background-color: white;
+  border-radius: 8px;
+  color: #2563eb;
+  font-size: 14px;
+  font-weight: 600;
+}
+.btn2 {
+  cursor: pointer;
+  margin-top: 40px;
+  padding: 11px 0;
+  border: 1px solid #0d1b2a;
+  border-radius: 8px;
+  color: #FFFFFF;
+  background-color: #2563eb;
+  font-size: 14px;
+  font-weight: 600;
+}
+.btn3 {
+  background-color: #f8f9fa;
+  padding: 11px 0;
+  border: 1px solid #0d1b2a;
+  border-radius: 8px;
+  color: #0d1b2a;
+  font-size: 14px;
+  font-weight: 600;
+}
+.prime {
+  background-color: #0d1b2a;
+}
+.card-holder-p1-prime {
+  font-size: 13px;
+  font-weight: 600;
+  color: #93c5fd;
+}
+.card-holder-h3-prime {
+  font-size: 44px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.list-prime li {
+  color: #d1d5db;
 }
