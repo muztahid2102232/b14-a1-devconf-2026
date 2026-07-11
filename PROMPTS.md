@@ -1,0 +1,3 @@
+hello, I am doing an assignment. Here, I have to make  a section  above the footer section. please suggest me a section idea which will be relevant  with the design topic and theme. please also consider about the idea which will be moderately easy for me and also helpful for getting a smart mark. The section must stay relevant to the DevConf 2026 theme (e.g. Sponsors, Venue, FAQ, Newsletter Signup, Hackathon Details, Past Highlights, Job Board, etc.). You can give me another ideas also If you want.
+I want to make a newsletter and a sponsor portion in my section. Please provide me the design in .fig format.
+Design this section so it looks like it belongs in the original DevConf 2026 Figma

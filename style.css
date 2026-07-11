@@ -241,3 +241,18 @@ hr {
 i {
   font-size: 30px;
 }
+.special-section-container {
+  text-align: center;
+}
+.special-section-div1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.special-section-div2{
+    display: flex;
+    text-align: center;
+
+}
