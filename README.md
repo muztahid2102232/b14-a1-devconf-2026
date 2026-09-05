@@ -89,7 +89,9 @@ No package installation or dependency management is required.
 No installation or build process is required to run this project locally.
 
 ### Clone the Repository
-`git clone https://github.com/muztahid2102232/b14-a1-devconf-2026.git`
+``` bash
+git clone https://github.com/muztahid2102232/b14-a1-devconf-2026.git
+```
 
 ### Navigate to the Project Directory <br>
 
