@@ -6,7 +6,7 @@ A modern and responsive developer conference landing page built with HTML5 and C
 
 ## 🔗 Live Demo
 
-- **Live link:** https://muztahid2102232.github.io/Dev-conference-project-assignment
+- **Live link:** https://muztahid2102232.github.io/b14-a1-devconf-2026/
 ---
 
 ## ✨ Features
